@@ -1,6 +1,6 @@
 
 ## **Parentheses Align**  
-![Version](https://img.shields.io/badge/version-1.0.0-blue)  
+![Version](https://img.shields.io/badge/version-1.0.2-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 
 **Parentheses Align** 是一个 **VS Code 插件**，用于将括号内的内容快速对齐为 **左对齐**、**居中对齐** 或 **右对齐**，同时保持括号的位置不变。支持中英文混合排版，是代码格式化或文档排版的利器！
