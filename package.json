@@ -2,7 +2,7 @@
   "name": "parentheses-center",
   "displayName": "Parentheses Center",
   "description": "Center content inside parentheses",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ParenthesesAlign",
   "engines": {
     "vscode": "^1.99.0"
@@ -10,6 +10,7 @@
   "categories": [
     "Formatters"
   ],
+  "icon": "icon.png",
   "activationEvents": [ ],
   "main": "./out/extension.js",
   "contributes": {
