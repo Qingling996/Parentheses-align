@@ -1,9 +1,9 @@
 {
   "name": "parentheses-center",
   "displayName": "Parentheses Center",
-  "description": "Center content inside parentheses",
-  "version": "1.0.1",
-  "publisher": "ParenthesesAlign",
+  "description": "Automatic Alignment of Parentheses",
+  "version": "1.0.2",
+  "publisher": "AdolphWang",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -56,6 +56,10 @@
       "when": "editorTextFocus"
     }
   ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qingling996/Parentheses-align?tab=readme-ov-file"
   },
   "scripts": {
     "compile": "tsc -p ./",

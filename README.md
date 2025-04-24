@@ -85,16 +85,19 @@ parentheses-align/
 ├── tsconfig.json             // TypeScript 配置
 └── README.md                 // 用户文档
 ```
+---
 
+## **版本**
+- *1.0.0*: 创建
+- *1.0.1*: 更新icon.png
+- *1.0.2*: 1-优化功能，修复跨行括号格式不正确的问题
+           2-忽略每有用的依赖包，减少插件大小
 ---
 
 ## **贡献**
 欢迎提交 Issue 或 Pull Request！  
 - **Issue**：报告问题或提出新功能建议。
 - **Pull Request**：贡献代码，改进插件功能。
-
----
-
 
 ---
 
