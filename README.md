@@ -46,7 +46,7 @@
 在 `settings.json` 中配置默认对齐方式：
 ```json
 {
-  "parenthesesAlign.defaultAlignment": "center" // 可选值：left, center, right
+  "parenthesesAlign.defaultAlignment": "center" /* 可选值：left, center, right */
 }
 ```
 
