@@ -3,7 +3,7 @@
   "displayName": "Parentheses Center",
   "description": "Center content inside parentheses",
   "version": "1.0.0",
-  "publisher": "AdolphWang",
+  "publisher": "ParenthesesAlign",
   "engines": {
     "vscode": "^1.99.0"
   },
