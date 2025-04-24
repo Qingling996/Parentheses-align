@@ -2,8 +2,8 @@
   "name": "parentheses-center",
   "displayName": "Parentheses Center",
   "description": "Center content inside parentheses",
-  "version": "0.1.0",
-  "publisher": "Adolph",
+  "version": "1.0.0",
+  "publisher": "AdolphWang",
   "engines": {
     "vscode": "^1.99.0"
   },
