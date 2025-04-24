@@ -1,6 +1,6 @@
 ---
 
-# **Parentheses Align**  
+## **Parentheses Align**  
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 
@@ -101,7 +101,7 @@ parentheses-align/
 
 ## **作者**
 - **Adolph**  
-  - GitHub: [@Qinging996](https://github.com/Qinging996)  
+  - GitHub: [@Qinging996](https://github.com/Qingling996/Parentheses-align?tab=readme-ov-file)  
   - Email: adolph1354238998@gmail.com
 
 ---
