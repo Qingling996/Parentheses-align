@@ -1,0 +1,63 @@
+{
+  "name": "parentheses-center",
+  "displayName": "Parentheses Center",
+  "description": "Center content inside parentheses",
+  "version": "0.1.0",
+  "publisher": "Adolph",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Formatters"
+  ],
+  "activationEvents": [ ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "parentheses-center.left",
+        "title": "Align Left (parentheses content)"
+      },
+      {
+        "command": "parentheses-center.center",
+        "title": "Align Center (parentheses content)"
+      },
+      {
+        "command": "parentheses-center.right",
+        "title": "Align Right (parentheses content)"
+      }
+    ],
+    "configuration": {
+      "title": "Parentheses Align",
+      "properties": {
+        "parenthesesAlign.defaultAlignment": {
+          "type": "string",
+          "enum": ["left", "center", "right"],
+          "default": "center",
+          "description": "Default alignment for parentheses content"
+        }
+      }
+    },
+    "keybindings": [
+    {
+      "command": "parentheses-center.left",
+      "key": "alt+l",
+      "when": "editorTextFocus"
+    },
+    {
+      "command": "parentheses-center.center",
+      "key": "alt+c",
+      "when": "editorTextFocus"
+    },
+    {
+      "command": "parentheses-center.right",
+      "key": "alt+r",
+      "when": "editorTextFocus"
+    }
+  ]
+  },
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  }
+}
