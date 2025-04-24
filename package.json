@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Qingling996/Parentheses-align?tab=readme-ov-file"
+    "url": "https://github.com/Qingling996/Parentheses-align.git"
   },
   "scripts": {
     "compile": "tsc -p ./",
