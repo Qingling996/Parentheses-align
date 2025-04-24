@@ -3,7 +3,7 @@
   "displayName": "Parentheses Center",
   "description": "Automatic Alignment of Parentheses",
   "version": "1.0.2",
-  "publisher": "AdolphWang",
+  "publisher": "Adolph-Wang",
   "engines": {
     "vscode": "^1.99.0"
   },
